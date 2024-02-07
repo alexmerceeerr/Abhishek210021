@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishek210021
+- 👋 Hi, I’m @Alex Mercerr
 - 👀 I’m interested in learn Coding and hacking
 - 🌱 I’m currently learning codemycamp
 - 💞️ I’m looking to collaborate on Github
